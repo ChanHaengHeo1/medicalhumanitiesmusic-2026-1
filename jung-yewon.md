@@ -6,7 +6,7 @@ Disease: Cystic fibrosis
 ICB: E84
 ---
 
-<img width="453" height="692" alt="image" alt="Breathing Between Distance" src="https://chatgpt.com/s/m_6a0be46ceda4819193c65581498d2a2a' />
+<img src="./jung-yewon.png" alt="Breathing Between Distance" style="width=30%;" />
 
 # Five feet
 
