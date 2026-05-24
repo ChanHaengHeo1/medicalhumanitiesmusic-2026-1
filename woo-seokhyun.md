@@ -14,7 +14,7 @@ The movie Miracle in Cell No. 7 is about a heartwarming and tear-jerking paterna
 
 In this regard, referring to [Inseparable Bros](yang-jiseok.md) would be helpful.
 
-<img src="./image_file.jpg" alt="description" style="width: 25%;" />
+<img src="./woo-seokhyun.png" alt="description" style="width:60%;" />
 
 # 7번방의 선물 (2013)
 
